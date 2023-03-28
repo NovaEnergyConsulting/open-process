@@ -53,14 +53,14 @@ module.exports = configure(function (/* ctx */) {
         node: 'node16'
       },
 
-      vueRouterMode: 'hash' // available values: 'hash', 'history'
+      vueRouterMode: 'hash', // available values: 'hash', 'history'
       // vueRouterBase,
       // vueDevtools,
       // vueOptionsAPI: false,
 
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
 
-      // publicPath: '/',
+      publicPath: '/'
       // analyze: true,
       // env: {},
       // rawDefine: {}
@@ -191,8 +191,7 @@ module.exports = configure(function (/* ctx */) {
 
     // Full list of options: https://v2.quasar.dev/quasar-cli-vite/developing-browser-extensions/configuring-bex
     bex: {
-      contentScripts: ['my-content-script']
-
+      // contentScripts: ['my-content-script']
       // extendBexScriptsConf (esbuildConf) {}
       // extendBexManifestJson (json) {}
     }

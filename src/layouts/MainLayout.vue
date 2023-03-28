@@ -4,7 +4,7 @@
       <q-toolbar>
         <q-img src="favicon.png" height="25px" width="25px" />
 
-        <q-toolbar-title>VPP Visibility Platform Documentation</q-toolbar-title>
+        <q-toolbar-title>Documenter</q-toolbar-title>
 
         <app-toolbar @add-process="addProcess" />
       </q-toolbar>

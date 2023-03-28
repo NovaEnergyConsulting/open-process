@@ -1,8 +1,8 @@
 {
   "name": "architecture-documenter",
   "version": "0.0.1",
-  "description": "A system to document software architecture requirements",
-  "productName": "VPP Visibility Platform",
+  "description": "A system to document processes",
+  "productName": "Documenter",
   "author": "Carlos Gamez <carlos.gamez@novaenergy.consulting>",
   "private": true,
   "scripts": {

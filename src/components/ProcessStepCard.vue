@@ -16,7 +16,11 @@
             type="text"
             @update:model-value="updateProcessStep"
           />
-          <div v-else class="text-h6 non-selectable cursor-pointer">
+          <div
+            v-else
+            class="text-h6 non-selectable cursor-pointer ellipsis"
+            style="max-width: 10em"
+          >
             {{ props.data?.name }}
           </div>
         </div>

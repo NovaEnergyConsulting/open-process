@@ -1,7 +1,7 @@
 {
-  "name": "architecture-documenter",
+  "name": "documenter",
   "version": "0.0.1",
-  "description": "A system to document processes",
+  "description": "A simple app to document processes",
   "productName": "Documenter",
   "author": "Carlos Gamez <carlos.gamez@novaenergy.consulting>",
   "private": true,

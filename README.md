@@ -36,3 +36,5 @@ For local development use `npm run dev`
 - [Pinia](https://pinia.vuejs.org/)
 - [PiniaORM](https://pinia-orm.codedredd.de/)
 - [Pinia Plugin Persisted State](https://github.com/prazdevs/pinia-plugin-persistedstate)
+
+## LICENSE [MIT](./LICENSE)
